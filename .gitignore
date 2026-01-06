@@ -1,0 +1,14 @@
+# macOS Junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build Artifacts (防止误传压缩包)
+*.zip
+*.tar.gz
+*.o
+*.out
+
+# Editors
+.vscode/
+.idea/
